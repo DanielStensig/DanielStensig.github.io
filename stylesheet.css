@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+}
+
+.border1 {
+    border: #9b9b9b solid 6px;
+    margin: 1rem; 
+}
+
+.border1-text {
+    padding: 0rem 1rem;
+    font-size: 30px;
+    display: flex; 
+    position: relative;
+}
